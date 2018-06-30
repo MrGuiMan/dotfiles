@@ -4,6 +4,7 @@
 # Except...
 !.gitignore
 !.vimrc
+!.config
 !.zshrc
 !README.md
 !/vim
