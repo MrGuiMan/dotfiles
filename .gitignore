@@ -6,6 +6,7 @@
 !.vimrc
 !.zshrc
 !.Xresources
+!.xinitrc
 !README.md
 !/vim
 !/.vim
@@ -17,7 +18,9 @@
 !/.config/compton.conf
 !/.config/polybar
 !/.config/rofi
+!/.config/plasma-workspace
 !/xorg.conf.d
 !/.themes
 !/.fonts
 !/.urxvt
+!setup.sh
